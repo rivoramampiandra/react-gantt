@@ -1,0 +1,138 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "text": "Client : Signature du contrat de construction",
+            "start_date": "2020-08-11",
+            "duration": 4,
+            "progress": 0.4
+        },
+        {
+            "id": 22,
+            "text": "Client : Paiement acompte sur compte sécurisé",
+            "start_date": "2020-08-11",
+            "duration": 6,
+            "progress": 0.5
+        },
+        {
+            "id": 3,
+            "text": "Prépa. chantier / Commandes matériaux",
+            "start_date": "2020-08-14",
+            "duration": 10,
+            "progress": 0.6
+        },
+        {
+            "id": 4,
+            "text": "Client : Signature du contrat de construction",
+            "start_date": "2020-08-11",
+            "duration": 5,
+            "progress": 0
+          },
+          {
+            "id": 5,
+            "text": "Client : Paiement acompte sur compte sécurisé",
+            "start_date": "2020-08-11",
+            "duration": 1,
+            "progress": 0
+          },
+          {
+            "id": 6,
+            "text": "Prépa. chantier / Commandes matériaux",
+            "start_date": "2020-08-14",
+            "duration": 10,
+            "progress": 0
+          },
+          {
+            "id": 7,
+            "text": "Préparations de chantier",
+            "start_date": "2020-08-14",
+            "duration": 10,
+            "progress": 0
+          },
+          {
+            "id": 8,
+            "text": "Phase Chantier",
+            "start_date": "2020-08-28",
+            "duration": 49,
+            "progress": 0
+          },
+          {
+            "id": 9,
+            "text": "Réunion de lancement de chantier",
+            "start_date": "2020-08-28",
+            "duration": 2,
+            "progress": 0
+          },
+          {
+            "id": 10,
+            "text": "Mise en chantier",
+            "start_date": "2020-08-29",
+            "duration": 1,
+            "progress": 0
+          },
+          {
+            "id": 11,
+            "text": "Déconstruction / Démolition",
+            "start_date": "2020-08-30",
+            "duration": 5,
+            "progress": 0
+          },
+          {
+            "id": 12,
+            "text": "Electricité",
+            "start_date": "2020-09-05",
+            "duration": 10,
+            "progress": 0
+          },
+          {
+            "id": 13,
+            "text": "Plâtrerie : Cloison - Faux-plafonds",
+            "start_date": "2020-09-06",
+            "duration": 15,
+            "progress": 0
+          },
+          {
+            "id": 14,
+            "text": "Plomberie",
+            "start_date": "2020-09-14",
+            "duration": 7,
+            "progress": 0
+          },
+          {
+            "id": 15,
+            "text": "Revêtements de sol",
+            "start_date": "2020-09-24",
+            "duration": 9,
+            "progress": 0
+          },
+          {
+            "id": 16,
+            "text": "Peinture: Préparation de support - Finition",
+            "start_date": "2020-10-03",
+            "duration": 19,
+            "progress": 0
+          },
+          {
+            "id": 17,
+            "text": "Menuiseries",
+            "start_date": "2020-10-17",
+            "duration": 13,
+            "progress": 0
+          },
+          {
+            "id": 18,
+            "text": "Réception",
+            "start_date": "2020-11-05",
+            "duration": 3,
+            "progress": 0
+          },
+        {
+            "id": 19,
+            "text": "Réception",
+            "start_date": "2020-11-05",
+            "duration": 5,
+            "progress": 2
+        }
+    ],
+    "links": []
+}

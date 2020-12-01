@@ -1,0 +1,174 @@
+[
+  {
+    "id": 343,
+    "project": {
+      "id": 10828,
+      "name": "Projet HOUDAILLE - RUE JEAN JACQUES ROUSSEAU"
+    },
+    "user": {
+      "role": "Responsable travaux",
+      "first_name": "Amaury",
+      "last_name": "Gainard",
+      "email": "amaury@littleworker.fr"
+    },
+    "dates": {
+      "update": "2020-08-11T13:17:39.570Z"
+    },
+    "planning": {
+      "items": [
+        {
+          "id": 17878,
+          "title": "Client : Signature du contrat de construction",
+          "description": null,
+          "start_date": "2020-08-11T13:17:39.349Z",
+          "duration": 0,
+          "type": "milestone",
+          "id_parent": null,
+          "progress": 0
+        },
+        {
+          "id": 17884,
+          "title": "Client : Paiement acompte sur compte sécurisé",
+          "description": "",
+          "start_date": "2020-08-11T13:17:39.349Z",
+          "duration": 0,
+          "type": "milestone",
+          "id_parent": null,
+          "progress": 0
+        },
+        {
+          "id": 17872,
+          "title": "Prépa. chantier / Commandes matériaux",
+          "description": null,
+          "start_date": "2020-08-14T13:17:39.349Z",
+          "duration": 10,
+          "type": "project",
+          "id_parent": null,
+          "progress": 0
+        },
+        {
+          "id": 17869,
+          "title": "Préparations de chantier",
+          "description": "",
+          "start_date": "2020-08-14T13:17:39.349Z",
+          "duration": 10,
+          "type": "task",
+          "id_parent": 17872,
+          "progress": 0
+        },
+        {
+          "id": 17876,
+          "title": "Phase Chantier",
+          "description": null,
+          "start_date": "2020-08-28T13:17:39.349Z",
+          "duration": 49,
+          "type": "project",
+          "id_parent": null,
+          "progress": 0,
+          "is_worksite_project": true
+        },
+        {
+          "id": 17882,
+          "title": "Réunion de lancement de chantier",
+          "description": null,
+          "start_date": "2020-08-28T13:17:39.349Z",
+          "duration": 0,
+          "type": "milestone",
+          "id_parent": 17876,
+          "progress": 0
+        },
+        {
+          "id": 17875,
+          "title": "Mise en chantier",
+          "description": "",
+          "start_date": "2020-08-29T13:17:39.349Z",
+          "duration": 1,
+          "type": "task",
+          "id_parent": 17876,
+          "progress": 0
+        },
+        {
+          "id": 17873,
+          "title": "Déconstruction / Démolition",
+          "description": "",
+          "start_date": "2020-08-30T13:17:39.349Z",
+          "duration": 5,
+          "type": "task",
+          "id_parent": 17876,
+          "progress": 0
+        },
+        {
+          "id": 17877,
+          "title": "Electricité",
+          "description": "",
+          "start_date": "2020-09-05T13:17:39.349Z",
+          "duration": 10,
+          "type": "task",
+          "id_parent": 17876,
+          "progress": 0
+        },
+        {
+          "id": 17870,
+          "title": "Plâtrerie : Cloison - Faux-plafonds",
+          "description": "",
+          "start_date": "2020-09-06T13:17:39.349Z",
+          "duration": 15,
+          "type": "task",
+          "id_parent": 17876,
+          "progress": 0
+        },
+        {
+          "id": 17879,
+          "title": "Plomberie",
+          "description": "",
+          "start_date": "2020-09-14T13:17:39.349Z",
+          "duration": 7,
+          "type": "task",
+          "id_parent": 17876,
+          "progress": 0
+        },
+        {
+          "id": 17881,
+          "title": "Revêtements de sol",
+          "description": "",
+          "start_date": "2020-09-24T13:17:39.349Z",
+          "duration": 9,
+          "type": "task",
+          "id_parent": 17876,
+          "progress": 0
+        },
+        {
+          "id": 17880,
+          "title": "Peinture: Préparation de support - Finition",
+          "description": "",
+          "start_date": "2020-10-03T13:17:39.349Z",
+          "duration": 19,
+          "type": "task",
+          "id_parent": 17876,
+          "progress": 0
+        },
+        {
+          "id": 17871,
+          "title": "Menuiseries",
+          "description": "",
+          "start_date": "2020-10-17T13:17:39.349Z",
+          "duration": 13,
+          "type": "task",
+          "id_parent": 17876,
+          "progress": 0
+        },
+        {
+          "id": 17874,
+          "title": "Réception",
+          "description": null,
+          "start_date": "2020-11-05T14:17:39.349Z",
+          "duration": 0,
+          "type": "milestone",
+          "id_parent": 17876,
+          "progress": 0
+        }
+      ],
+      "links": []
+    }
+  }
+]
